@@ -325,6 +325,7 @@ box-shadow: 6px 6px 4px 0px rgba(0,0,0,0.05);
 .expo_img {
   float: left;
     margin-right: 25px;
+    min-height: 102px;
 }
 .expo_list li {
     margin-top: 13px;
