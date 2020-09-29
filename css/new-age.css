@@ -449,7 +449,7 @@ footer hr {
     font-size: 40px;
 }
 iframe{
-  width: 100%;    border: 0;    height: 100vh;    max-height: 590px;   min-height: 590px;   overflow: hidden;
+  width: 100%;    border: 0;    height: 100vh;    max-height: 690px;   min-height: 690px;   overflow: hidden;
 }
 @media (min-width: 992px) {
   iframe{
